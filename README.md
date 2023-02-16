@@ -1,5 +1,5 @@
 # Imap-mail-reader
-The aim of this project is to simplify python mail reading from imap
+The aim of this project is to simplify python mail reading using imap protocol
 
 ## Install
 `pip install Imap-mail-reader`
