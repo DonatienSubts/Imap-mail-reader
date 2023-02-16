@@ -1,6 +1,9 @@
 # Imap-mail-reader
 The aim of this project is to simplify python mail reading from imap
 
+## Install
+PIP incoming soon
+
 ## Usage
 
 ### Mail Reader class methods and attributes
