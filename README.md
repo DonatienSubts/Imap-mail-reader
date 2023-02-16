@@ -2,7 +2,7 @@
 The aim of this project is to simplify python mail reading from imap
 
 ## Install
-PIP incoming soon
+`pip install Imap-mail-reader`
 
 ## Usage
 
