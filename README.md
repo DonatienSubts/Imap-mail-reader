@@ -13,7 +13,7 @@ The aim of this project is to simplify python mail reading using imap protocol
 
 `reader.Connect()` to connect to the imap server using credentials
 
-`reader.getUnreadMails()` to instantiate messages attributes containing all mails
+`reader.getUnreadMails()` to instantiate messages attributes containing all unread mails
 
 `reader.messages` is a variable containing a list of message class
 
