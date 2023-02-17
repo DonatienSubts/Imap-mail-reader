@@ -28,6 +28,6 @@ The aim of this project is to simplify python mail reading using imap protocol
 
 ### File class contains following attributes : 
 `name` : string
-`content` : string
+`content` : bytes
 
 Example of usage in test.py
